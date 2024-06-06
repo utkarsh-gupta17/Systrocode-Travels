@@ -110,14 +110,14 @@ function Footer() {
 
         <nav className="text-lg basis-1/3 p-2 sm:p-8 text-center md:text-left">
           <h6 className={`footer-title text-lg lg:text-2xl ${poppins.className}`}>
-            Get Travel Updates !
+            Get Travel Updates
           </h6>
           <p className={`text-sm lg:text-base mb-4 ${inter.className}`}>
             Stay up-to-date on our latest travel news & deals Rest assured, we
             value your time and privacy and promise not to send you any spam
             emails.
           </p>
-          <h6 className={`${poppins.className} footer-title text-lg lg:text-2xl`}>Address !</h6>
+          <h6 className={`${poppins.className} footer-title text-lg lg:text-2xl`}>Address</h6>
           <p className={`${inter.className} text-sm lg:text-base`}>
             FLAT NO 28/C/80, JHELUM APARTMENT, NEAR DWARKAPURI CIRCLE, PRATAP
             NAGAR, JAIPUR - 302033

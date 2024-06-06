@@ -12,8 +12,8 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-        "landing-img": "url('../images/banner.jpg')",
-        "tmz-img": "url('../images/tmz_bg.jpg')",
+        "landing-img": "url('../Images/banner.jpg')",
+        "tmz-img": "url('../Images/tmz_bg.jpg')",
       },
       fontFamily: {
         sans: ['var(--font-inter)'],
